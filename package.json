@@ -9,6 +9,7 @@
   "author": "Johannes Edelstam <johannes@edelst.am> (http://edelst.am/)",
   "license": "ISC",
   "dependencies": {
-    "bleacon": "^0.2.0"
+    "bleacon": "^0.2.0",
+    "bleno": "^0.1.8"
   }
 }
