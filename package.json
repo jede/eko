@@ -1,0 +1,14 @@
+{
+  "name": "eko",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Johannes Edelstam <johannes@edelst.am> (http://edelst.am/)",
+  "license": "ISC",
+  "dependencies": {
+    "bleacon": "^0.2.0"
+  }
+}
